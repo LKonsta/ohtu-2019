@@ -16,7 +16,7 @@ public class Main {
         Gson mapper = new Gson();
         Player[] players = mapper.fromJson(bodyText, Player[].class);
         
-        System.out.println("Oliot:");
+        System.out.println("Suomalaiset:");
         for (Player player : players) {
             if ("FIN".equals(player.getNationality())) {
                 System.out.println(player);

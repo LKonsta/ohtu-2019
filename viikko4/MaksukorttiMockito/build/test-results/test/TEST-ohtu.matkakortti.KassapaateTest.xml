@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ohtu.matkakortti.KassapaateTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-11-25T14:48:51" hostname="lx8-fuxi042" time="0.284">
+  <properties/>
+  <testcase name="kortiltaVelotetaanHintaJosRahaaOn" classname="ohtu.matkakortti.KassapaateTest" time="0.283"/>
+  <testcase name="kortiltaEiVelotetaJosRahaEiRiita" classname="ohtu.matkakortti.KassapaateTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

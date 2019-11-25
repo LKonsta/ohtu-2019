@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ohtu.verkkokauppa.KauppaTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2019-11-25T15:31:37" hostname="lx8-fuxi042" time="0.353">
+  <properties/>
+  <testcase name="kahdenOstoksenPaaytyttyaPankinMetodiaTilisiirtoKutsutaanOikeallaArvolla" classname="ohtu.verkkokauppa.KauppaTest" time="0.346"/>
+  <testcase name="kaksiSamaaOstostaPaaytyttyaPankinMetodiaTilisiirtoKutsutaanOikeallaArvolla" classname="ohtu.verkkokauppa.KauppaTest" time="0.001"/>
+  <testcase name="yksiOstostaJotaOnJaYksiJotaEiOlePaaytyttyaPankinMetodiaTilisiirtoKutsutaanOikeallaArvolla" classname="ohtu.verkkokauppa.KauppaTest" time="0.002"/>
+  <testcase name="ostoksenPaaytyttyaPankinMetodiaTilisiirtoKutsutaan" classname="ohtu.verkkokauppa.KauppaTest" time="0.002"/>
+  <testcase name="ostoksenPaaytyttyaPankinMetodiaTilisiirtoKutsutaanOikeallaArvolla" classname="ohtu.verkkokauppa.KauppaTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

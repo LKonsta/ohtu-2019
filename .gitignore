@@ -7,6 +7,7 @@
 /viikko3/nhlreader/.gradle
 .gradle
 /viikko3/HelloCucumber/build/
+/viikko3/HelloCucumber/.gradle/
 /viikko3/LoginCucumber/.nb-gradle/
 /viikko3/LoginCucumber/build/
 /viikko4/Verkkokauppa/build/
@@ -14,3 +15,4 @@
 /viikko4/IntJoukkoSovellus/build/
 /viikko4/Tennis/.nb-gradle/
 /viikko4/Tennis/build/
+/viikko3/HelloCucumber/.nb-gradle/
